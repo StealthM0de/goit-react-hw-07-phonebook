@@ -8,7 +8,7 @@ export const Loader = () => {
       loading
       margin={10}
       radius={5}
-      speedMultiplier={4}
+      speedMultiplier={2}
       width={20}
     />
   );
