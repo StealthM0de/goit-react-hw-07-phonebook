@@ -6,6 +6,8 @@ export const Loader = () => {
       color="#36d7b7"
       cssOverride={{}}
       loading
+      margin={10}
+      radius={5}
       speedMultiplier={4}
       width={20}
     />
